@@ -13,6 +13,9 @@
 #include <util/system.h>
 #include <util/strencodings.h>
 #include <util/validation.h>
+#include "wallet/rpcwallet.h"
+#include "wallet/wallet.h"
+#include "wallet/walletdb.h"
 
 #include <stdint.h>
 #include <tuple>
